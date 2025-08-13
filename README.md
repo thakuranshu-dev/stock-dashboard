@@ -33,8 +33,7 @@ A Streamlit-based web application for visualizing stock data, fundamental financ
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
-   cd Stock_Dahboard_app
+   git clone https://github.com/thakuranshu-dev/stock-dashboard.git
    ```
 
 2. **Install dependencies:**
@@ -86,6 +85,6 @@ A Streamlit-based web application for visualizing stock data, fundamental financ
 
 ## License
 
-MIT License
+[MIT LICENSE](LICENSE)
 
 ---
