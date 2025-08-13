@@ -1,6 +1,8 @@
+dotenv
 streamlit
 pandas
 numpy
 yfinance
 plotly
 gunicorn
+
