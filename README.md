@@ -33,7 +33,7 @@ A Streamlit-based web application for visualizing stock data, fundamental financ
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/thakuranshu-dev/stock-dashboard.git
+   git clone <repo-url>
    cd Stock_Dahboard_app
    ```
 
@@ -73,10 +73,10 @@ A Streamlit-based web application for visualizing stock data, fundamental financ
 
 ## Screenshots
 
-![Dashboard Main View](Stock_Dahboard_app/screenshots/image1.png)
-![Pricing Data Tab](Stock_Dahboard_app/screenshots/image2.png)
-![Fundamental Data Tab](Stock_Dahboard_app/screenshots/image3.png)
-![Top 10 News Tab](Stock_Dahboard_app/screenshots/image4.png)
+![Dashboard Main View](screenshots/image1.png)
+![Pricing Data Tab](screenshots/image2.png)
+![Fundamental Data Tab](screenshots/image3.png)
+![Top 10 News Tab](screenshots/image4.png)
 
 ## Notes
 
@@ -86,6 +86,6 @@ A Streamlit-based web application for visualizing stock data, fundamental financ
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+MIT License
 
 ---
