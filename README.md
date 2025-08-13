@@ -85,6 +85,6 @@ A Streamlit-based web application for visualizing stock data, fundamental financ
 
 ## License
 
-[MIT LICENSE](LICENSE)
+This project is licensed under [MIT LICENSE](LICENSE)
 
 ---
