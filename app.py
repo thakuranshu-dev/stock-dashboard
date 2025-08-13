@@ -13,6 +13,8 @@ end_date = st.sidebar.date_input("End Date")
 
 if not ticker:
     st.warning("Please provide valid ticker symbol and duration.")
+elif start_date == end_date or start_date > end_date:
+    st.warning("Please provide valid dates.")
 else:
     data = yf.download(ticker, start=start_date, end=end_date,auto_adjust=False)
     fig = px.line(data_frame=data, x=data.index, y=data['Adj Close'][ticker], title=ticker, labels={'x': 'Date', 'y': 'Close'})
@@ -80,3 +82,4 @@ else:
 
 
 ## TODO: handle api limit error
+
